@@ -1,4 +1,3 @@
-wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
@@ -61,7 +60,7 @@ wwwroot\lib\jquery\dist\jquery.slim.js
 wwwroot\lib\jquery\dist\jquery.slim.min.js
 wwwroot\lib\jquery\dist\jquery.slim.min.map
 wwwroot\lib\jquery\LICENSE.txt
-C:\Users\ERNILYN\Desktop\MVC_Appdev\Port\Port\wwwroot\css\site.css
+wwwroot\css\site.css
 C:\Users\ERNILYN\Desktop\MVC_Appdev\Port\Port\wwwroot\favicon.ico
 C:\Users\ERNILYN\Desktop\MVC_Appdev\Port\Port\wwwroot\js\site.js
 C:\Users\ERNILYN\Desktop\MVC_Appdev\Port\Port\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
@@ -123,3 +122,4 @@ C:\Users\ERNILYN\Desktop\MVC_Appdev\Port\Port\wwwroot\lib\jquery\dist\jquery.sli
 C:\Users\ERNILYN\Desktop\MVC_Appdev\Port\Port\wwwroot\lib\jquery\dist\jquery.slim.min.js
 C:\Users\ERNILYN\Desktop\MVC_Appdev\Port\Port\wwwroot\lib\jquery\dist\jquery.slim.min.map
 C:\Users\ERNILYN\Desktop\MVC_Appdev\Port\Port\wwwroot\lib\jquery\LICENSE.txt
+C:\Users\ERNILYN\Desktop\MVC_Appdev\Port\Port\wwwroot\css\site.css

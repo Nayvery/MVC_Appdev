@@ -22,7 +22,6 @@ C:\Users\ERNILYN\Desktop\MVC_Appdev\Port\Port\obj\Debug\net10.0\rjsmcshtml.dswa.
 C:\Users\ERNILYN\Desktop\MVC_Appdev\Port\Port\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\ERNILYN\Desktop\MVC_Appdev\Port\Port\obj\Debug\net10.0\scopedcss\bundle\Port.styles.css
 C:\Users\ERNILYN\Desktop\MVC_Appdev\Port\Port\obj\Debug\net10.0\scopedcss\projectbundle\Port.bundle.scp.css
-C:\Users\ERNILYN\Desktop\MVC_Appdev\Port\Port\obj\Debug\net10.0\compressed\bp06ozuj97-{0}-b9sayid5wm-b9sayid5wm.gz
 C:\Users\ERNILYN\Desktop\MVC_Appdev\Port\Port\obj\Debug\net10.0\compressed\ow624z6qji-{0}-61n19gt1b8-61n19gt1b8.gz
 C:\Users\ERNILYN\Desktop\MVC_Appdev\Port\Port\obj\Debug\net10.0\compressed\6pjailwpek-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
 C:\Users\ERNILYN\Desktop\MVC_Appdev\Port\Port\obj\Debug\net10.0\compressed\0vtbs57lrz-{0}-bqjiyaj88i-bqjiyaj88i.gz
@@ -98,3 +97,4 @@ C:\Users\ERNILYN\Desktop\MVC_Appdev\Port\Port\obj\Debug\net10.0\Port.pdb
 C:\Users\ERNILYN\Desktop\MVC_Appdev\Port\Port\obj\Debug\net10.0\Port.genruntimeconfig.cache
 C:\Users\ERNILYN\Desktop\MVC_Appdev\Port\Port\obj\Debug\net10.0\ref\Port.dll
 C:\Users\ERNILYN\Desktop\MVC_Appdev\Port\Port\obj\Debug\net10.0\Port.csproj.Up2Date
+C:\Users\ERNILYN\Desktop\MVC_Appdev\Port\Port\obj\Debug\net10.0\compressed\bp06ozuj97-{0}-tihbgd35z1-tihbgd35z1.gz

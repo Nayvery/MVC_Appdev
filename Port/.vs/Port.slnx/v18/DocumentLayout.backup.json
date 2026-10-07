@@ -1,12 +1,119 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\ERNILYN\\Desktop\\MVC_Appdev\\Port\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{417DF89C-07E6-6773-CCC4-5ADFBB92184A}|Port\\Port.csproj|c:\\users\\ernilyn\\desktop\\mvc_appdev\\port\\port\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{417DF89C-07E6-6773-CCC4-5ADFBB92184A}|Port\\Port.csproj|solutionrelative:port\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417DF89C-07E6-6773-CCC4-5ADFBB92184A}|Port\\Port.csproj|c:\\users\\ernilyn\\desktop\\mvc_appdev\\port\\port\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{417DF89C-07E6-6773-CCC4-5ADFBB92184A}|Port\\Port.csproj|solutionrelative:port\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417DF89C-07E6-6773-CCC4-5ADFBB92184A}|Port\\Port.csproj|c:\\users\\ernilyn\\desktop\\mvc_appdev\\port\\port\\views\\home\\ernilyn.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{417DF89C-07E6-6773-CCC4-5ADFBB92184A}|Port\\Port.csproj|solutionrelative:port\\views\\home\\ernilyn.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417DF89C-07E6-6773-CCC4-5ADFBB92184A}|Port\\Port.csproj|c:\\users\\ernilyn\\desktop\\mvc_appdev\\port\\port\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417DF89C-07E6-6773-CCC4-5ADFBB92184A}|Port\\Port.csproj|solutionrelative:port\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417DF89C-07E6-6773-CCC4-5ADFBB92184A}|Port\\Port.csproj|c:\\users\\ernilyn\\desktop\\mvc_appdev\\port\\port\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{417DF89C-07E6-6773-CCC4-5ADFBB92184A}|Port\\Port.csproj|solutionrelative:port\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417DF89C-07E6-6773-CCC4-5ADFBB92184A}|Port\\Port.csproj|c:\\users\\ernilyn\\desktop\\mvc_appdev\\port\\port\\models\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417DF89C-07E6-6773-CCC4-5ADFBB92184A}|Port\\Port.csproj|solutionrelative:port\\models\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ernilyn.cshtml",
+              "DocumentMoniker": "C:\\Users\\ERNILYN\\Desktop\\MVC_Appdev\\Port\\Port\\Views\\Home\\Ernilyn.cshtml",
+              "RelativeDocumentMoniker": "Port\\Views\\Home\\Ernilyn.cshtml",
+              "ToolTip": "C:\\Users\\ERNILYN\\Desktop\\MVC_Appdev\\Port\\Port\\Views\\Home\\Ernilyn.cshtml",
+              "RelativeToolTip": "Port\\Views\\Home\\Ernilyn.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-07T06:20:10.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ERNILYN\\Desktop\\MVC_Appdev\\Port\\Port\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Port\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ERNILYN\\Desktop\\MVC_Appdev\\Port\\Port\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Port\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-05T06:43:04.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ERNILYN\\Desktop\\MVC_Appdev\\Port\\Port\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Port\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ERNILYN\\Desktop\\MVC_Appdev\\Port\\Port\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Port\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAlwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T06:32:34.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ERNILYN\\Desktop\\MVC_Appdev\\Port\\Port\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Port\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ERNILYN\\Desktop\\MVC_Appdev\\Port\\Port\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Port\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-07T06:12:10.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Profile.cs",
+              "DocumentMoniker": "C:\\Users\\ERNILYN\\Desktop\\MVC_Appdev\\Port\\Port\\Models\\Profile.cs",
+              "RelativeDocumentMoniker": "Port\\Models\\Profile.cs",
+              "ToolTip": "C:\\Users\\ERNILYN\\Desktop\\MVC_Appdev\\Port\\Port\\Models\\Profile.cs",
+              "RelativeToolTip": "Port\\Models\\Profile.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T06:24:36.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\ERNILYN\\Desktop\\MVC_Appdev\\Port\\Port\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Port\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\ERNILYN\\Desktop\\MVC_Appdev\\Port\\Port\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Port\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-10-05T06:21:39.542Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
