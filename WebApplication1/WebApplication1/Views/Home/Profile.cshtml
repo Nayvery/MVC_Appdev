@@ -1,0 +1,52 @@
+﻿@page
+@model WebApplication1.Views.Home.ProfileModel
+@{
+}
+
+<div class="text-center">
+	<h1>Profile</h1>
+</div>
+
+<div class="profile_JR">
+	<img src="https://avatars.githubusercontent.com/u/287118125?v=4" alt="John Rafael E. Domugho" class="rounded-circle mx-auto d-block" style="width: 200px; height: 200px; object-fit: cover;">
+	<div class="Profile">
+		<h3>John Rafael E. Domugho</h3>
+	</div>
+
+
+
+
+	<div class="profile-text">
+		<p>Github profile: <a href="https://github.com/JR-Smokey">Link</a></p>
+		<p>A 2nd-year BSCS Student studying at Polytechnic University Of The Philippines</p>
+	</div>
+
+</div>
+
+
+
+<style>
+
+	.profile_JR {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+		margin-inline: auto;
+		margin-right: auto;
+		margin-top: 30px;
+		border: 1px solid #000000;
+		padding: 20px;
+		width: 300px;
+		border-radius: 10px;
+		box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+		background-color: skyblue;
+	}
+			.Profile {
+				text-align: center !important;
+			}
+
+			.profile-text {
+				text-align: center !important;
+			}
+</style>
